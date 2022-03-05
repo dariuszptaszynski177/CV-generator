@@ -1,3 +1,0 @@
-host:www.mkwk019.cba.pl
-login:aplikacje-biznesowe
-has³o:ZAQ!1qaz123
